@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">hello world! 🌎<br>your friendly neighborhood explorer. 🚀</h2>
+<h2 align="left">Hi, I'm Ryssa, your friendly neighborhood explorer. 🚀</h2>
 
 ###
 
