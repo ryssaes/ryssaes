@@ -13,7 +13,7 @@ Front-end Developer 🚀 Crafting user-friendly and visually appealing web exper
  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - ⚛️ ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-   ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5.2-blueviolet)](https://getbootstrap.com/docs/4.5.2/)
 
 - 📱 Responsive Design
 
