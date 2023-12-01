@@ -15,8 +15,8 @@ Front-end Developer 🚀 Crafting user-friendly and visually appealing web exper
 - 📱 Responsive Design
 
 ## 🌱 Currently Learning
-- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wBm4qEwJ--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/25/c-sticker.png" alt="C Badge" width="60" height="60">
-- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--bcsZuthB--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/21/php-elephant.png" alt="PHP Elephant Badge" width="60" height="60">
+- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wBm4qEwJ--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/25/c-sticker.png" alt="C Badge" width="60" height="60"> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 
 - 📚 UX Design Principles
